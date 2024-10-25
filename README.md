@@ -1,0 +1,1 @@
+Se realizo el ejercicio descrito en clase de agregar un mantenimiento CRUD a la tabla proveedores Los parametros de conexion en la base de datos de MySQL son: Host=localhost User=root Password=1234 Database=db_empresa
